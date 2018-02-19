@@ -1,4 +1,5 @@
 Emulators/MAME/**
+!Emulators/MAME/README.md
 GUIs/attract/stats/**
 ROMs/Atari STE/**
 ROMs/MAME/**
@@ -9,4 +10,5 @@ ROMs/Nintendo SNES/**
 ROMs/Nintendo Wii/**
 ROMs/Sega Mega Drive/**
 ROMs/Sega Model 2/**
+!ROMs/**/README.md
 last_run.log

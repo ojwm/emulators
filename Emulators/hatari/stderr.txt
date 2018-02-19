@@ -1,0 +1,25 @@
+ARG = floppy image: roms\Lotus Turbo Challenge II (1991)(Gremlin)[cr].st
+Video_SetSystemTimings1 0 3
+Video_SetSystemTimings2 0 3 -> 2 (WS3) 503 503 64
+Hatari v2.0.0, compiled on:  Nov  3 2016, 20:36:01
+IPF : IPF_Init
+IPF : capsimage library version release=5 revision=1
+Video_SetSystemTimings1 0 3
+Video_SetSystemTimings2 0 3 -> 2 (WS3) 503 503 64
+Configured max Hatari resolution = 832x588, optimal for ST = 832x588
+Inserted disk 'roms\Lotus Turbo Challenge II (1991)(Gremlin)[cr].st' to drive A:.
+update cyc speed 0 throttle 0.000000 clock_mult 512
+CPU cycleunit: 256 (0.500)
+CPU cycleunit: 256 (0.500)
+1870 CPU functions
+Building CPU, 44274 opcodes (0 -2 1)
+CPU=68000, FPU=0, MMU=0, JIT=0. prefetch and cycle-exact 24-bit
+Video_SetSystemTimings1 0 3
+Video_SetSystemTimings2 0 3 -> 2 (WS3) 503 503 64
+Video_SetSystemTimings1 0 3
+Video_SetSystemTimings2 0 3 -> 2 (WS3) 503 503 64
+update cyc speed 0 throttle 0.000000 clock_mult 512
+CPU cycleunit: 256 (0.500)
+CPU cycleunit: 256 (0.500)
+CPU reset PC=fc0034 (ROM memory)..
+Floppy A: has been removed from drive.

@@ -1,0 +1,28 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Cool Spot (Europe);Cool Spot (Europe);fusion;;1994;Virgin Interactive;Adventure;1;;;;;;;;;
+Dynamite Headdy (USA, Europe);Dynamite Headdy (USA, Europe);fusion;;1994;Sega;Platform;1;;;;;;;;;
+Eternal Champions (Europe);Eternal Champions (Europe);fusion;;1993;Sega;Fighting;2;;;;;;;;;
+Fantasia (World) (Rev A);Fantasia (World) (Rev A);fusion;;1991;Sega;Platform;1;;;;;;;;;
+Golden Axe (World);Golden Axe (World);fusion;;1989;Sega;Action;2;;;;;;;;;
+Golden Axe II (World);Golden Axe II (World);fusion;;1991;Sega;Action;2;;;;;;;;;
+James Pond - Underwater Agent (USA, Europe);James Pond - Underwater Agent (USA, Europe);fusion;;1991;Electronic Arts;Action;1;;;;;;;;;
+James Pond 3 - Operation Starfish (USA, Europe);James Pond 3 - Operation Starfish (USA, Europe);fusion;;1993;Electronic Arts;Action;1;;;;;;;;;
+James Pond II - Codename Robocod (USA, Europe);James Pond II - Codename Robocod (USA, Europe);fusion;;1991;Millennium Interactive Ltd.;Platform;1;;;;;;;;;
+Krusty's Super Fun House (USA, Europe) (v1.1);Krusty's Super Fun House (USA, Europe) (v1.1);fusion;;1993;Acclaim;Action;1;;;;;;;;;
+Lemmings (Europe);Lemmings (Europe);fusion;;;;;;;;;;;;;;
+Lemmings 2 - The Tribes (Europe);Lemmings 2 - The Tribes (Europe);fusion;;1994;Psygnosis;Strategy;;;;;;;;;;
+Lotus Turbo Challenge (USA, Europe);Lotus Turbo Challenge (USA, Europe);fusion;;1992;Electronic Arts;Racing;2;;;;;;;;;
+Micro Machines (USA, Europe);Micro Machines (USA, Europe);fusion;;1993;Codemasters;Racing;4+;;;;;;;;;
+Micro Machines 2 - Turbo Tournament (Europe) (J-Cart);Micro Machines 2 - Turbo Tournament (Europe) (J-Cart);fusion;;1994;Codemasters;Racing;4+;;;;;;;;;
+Olympic Gold (Europe);Olympic Gold (Europe);fusion;;;;;;;;;;;;;;
+OutRun (USA, Europe);OutRun (USA, Europe);fusion;;1991;Sega;Racing;1;;;;;;;;;
+Revenge of Shinobi, The (USA, Europe) (Rev B);Revenge of Shinobi, The (USA, Europe) (Rev B);fusion;;1989;Sega;Action / Platform;1;;;;;;;;;
+Sonic the Hedgehog (USA, Europe);Sonic the Hedgehog (USA, Europe);fusion;;1991;Sega;Action / Platform;1;;;;;;;;;
+Sonic the Hedgehog 2 (World);Sonic the Hedgehog 2 (World);fusion;;1992;Sega;Action / Platform;2;;;;;;;;;
+Sonic the Hedgehog 3 (Europe);Sonic the Hedgehog 3 (Europe);fusion;;1994;Sega;Adventure;2;;;;;;;;;
+Streets of Rage (World);Streets of Rage (World);fusion;;1991;Sega;Action / Fighting;2;;;;;;;;;
+Super Hang-On (World) (En,Ja) (Rev A);Super Hang-On (World) (En,Ja) (Rev A);fusion;;1989;Sega;Racing;1;;;;;;;;;
+Toy Story (Europe);Toy Story (Europe);fusion;;;;;;;;;;;;;;
+World Cup Italia '90 (Europe);World Cup Italia '90 (Europe);fusion;;;;;;;;;;;;;;
+World of Illusion Starring Mickey Mouse and Donald Duck (Europe);World of Illusion Starring Mickey Mouse and Donald Duck (Europe);fusion;;1992;Sega;Adventure / Platform;2;;;;;;;;;
+Zombies (Europe);Zombies (Europe);fusion;;;;;;;;;;;;;;

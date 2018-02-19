@@ -1,0 +1,95 @@
+# Changelog #
+
+## Commits from v2.2.1 to v2.3.0
+
+### Andrew Mickelson (47 commits)
+
+* Bump to version 2.3
+* Added --loglevel and --logfile commandline options
+* [Windows] Switched Attract-Mode to a Windows GUI app
+* Issue #381 - fixed crash when using Shader.Empty
+* Ran languages through config/lang.sh, fixed line endings
+* Joystick mapping must now be done manually from Config->Controls->Joystick Mappings
+* Fix handling of conflicting input mappings in configuration mode
+* [rpi] Removed assumption that rasberry pi always uses GLES
+* Initial addition of Direct X Video Acceleration (Windows) and VAAPI (Linux) support
+* Issue #372 - Added plugin to change display on joystick input
+* [Attrac-Man] Fixed ghost and player UI movement around the "Ghost House"
+* Update look of Attrac-Man layout
+* Updated config so that Joystick slots can be mapped to specific named devices
+* added "Insert Game" command
+* Added UI functionality to edit shortcuts
+* Only use CRC matching on rom 10 megs or less when scraping
+* Initial support for shortcut navigation and multiple level menus
+* Tweak to https://github.com/mickelson/attract/commit/7a7afa5ba58b8d7d6f9eb2e607fb476d1334be18 to fix last launch saving
+* Added some missing bound checks when loading state
+* [linux] Issue #343 - don't leave zombies when exit hotkey is used
+* Disable further FE navigation when launch game sound is playing
+* Issue #333 - don't replay launch sound if in the process of launching a game
+* Added nomargin Text attribute to layout documentation
+* Issue #329 - smarter redrawing of surfaces
+* Fixed multimonitor bug (Fix provided by Mike Balfour)
+* Update Attrac-Man layout to use artwork fades
+* Enable animated gifs
+* [windows] Fix "Fill Screen Mode" on Win10
+* [linux] Issue #318 - fix compile on Linux with older SFML versions
+* [linux] reduced delay when launching emulator in "Fullscreen Mode"
+* [windows] Issue #296 - fix for white screen flicker on game launch and exit
+* Fix extensions in default dolphin configuration
+* [windows] Added NvOptimusEnablement and AmdPowerXpressRequestHighPerformance exports
+* The "edit game" action will now edit the display settings when used on the displays menu
+* Removed unnecessary video frame queuing, simplifying code
+* Added support for CUVID and QSV hardware accelerated video decoding
+* Issue #304 - hyperspin overlayoffset fix (patch from joyrider3774)
+* Changed sleep timer for smoother animation
+* Added scraping of mame artwork from adb.arcadeitalia.net
+* Fixed "scrape mamedb.com" and "scrape overview" option loading/saving
+* Issue #297 - fix hidden displays causing wrong selection in "displays menu"
+* Use mamedb.blu-ferret.co.uk for mamedb scraping
+* Updated Italian translation (P. Ghezzo)
+* Added screensaver options to run commands when starting or stopping "blank screen" mode
+* Fixed key handling to return from screensaver.  Fix build with NO_SWF=1 option
+* Added blank screen (low power mode) setting to default screensaver.
+* Added config option for confirmation prompt on exit
+
+### Benjamin Hodgetts (1 commits)
+
+* Save location in the playlist when launching a game
+
+### CosmicDan (3 commits)
+
+* "Hide Console" option should only be for Windows (whoops)
+* Add $PROGDIR variable/expansion for substituting program directory in path leadings
+* Add 'Hide Console' option to General settings
+
+### Dat1AZNBanana (1 commits)
+
+* Added more file types for Dolphin roms
+
+### djrobx (1 commits)
+
+* Fix bug where wheel doesn't scroll down or right if you move the trackball slowly . (#322)
+
+### Ferdinand Thiessen (3 commits)
+
+* Extlibs: Fixed nonvoid function without return value in gameswf. (#321)
+* [linux] Added appdata file (#319)
+* Makefile: Fix install target for mac and some linux distros
+
+### Minjae Song (3 commits)
+
+* graaah another typo (I swear that was the last)
+* Fixing typos
+* Korean localisation
+
+### Radek Dutkiewicz (4 commits)
+
+* Fixed bluring of small fonts in X axis when textbox has a fractional width
+* Fixed 1 pixel offset
+* tp.cpp whitespace cleanup
+* fe.Textbox improvements
+
+### willems davy (2 commits)
+
+* Try to correct positions for some themes with certain swf artwork
+* Fix zorder + implement zorder related below tag

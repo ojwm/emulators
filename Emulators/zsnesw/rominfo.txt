@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: Legend of Zelda, The - A Link to the Past (Europe).zip Header: No
+THE LEGEND OF ZELDA       TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:PAL     BANK:Lo     CRC32:04D55E12
+                                        

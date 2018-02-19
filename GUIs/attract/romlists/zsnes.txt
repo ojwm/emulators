@@ -1,0 +1,16 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Claymates (Europe);Claymates (Europe);zsnes;;;;;;;;;;;;;;
+Donkey Kong Country (Europe) (En,Fr,De);Donkey Kong Country (Europe) (En,Fr,De);zsnes;;1994;Nintendo;Action / Adventure / Platform;2;;;;;;;;;
+Gokujou Parodius (Japan);Gokujou Parodius (Japan);zsnes;;;;;;;;;;;;;;
+Legend of Zelda, The - A Link to the Past (Europe);Legend of Zelda, The - A Link to the Past (Europe);zsnes;;1992;Nintendo;Action / Adventure / Role-Playing;1;;;;;;;;;
+Micro Machines (Europe);Micro Machines (Europe);zsnes;;1994;Ocean;Racing;4+;;;;;;;;;
+Micro Machines 2 - Turbo Tournament (Europe);Micro Machines 2 - Turbo Tournament (Europe);zsnes;;1996;Ocean;Racing;4+;;;;;;;;;
+Street Fighter Alpha 2 (Europe);Street Fighter Alpha 2 (Europe);zsnes;;1996;Capcom;Fighting;2;;;;;;;;;
+Street Fighter II - The World Warrior (Europe);Street Fighter II - The World Warrior (Europe);zsnes;;;;;;;;;;;;;;
+Street Fighter II Turbo - Hyper Fighting (Europe);Street Fighter II Turbo - Hyper Fighting (Europe);zsnes;;;;;;;;;;;;;;
+Super Mario All-Stars (Europe);Super Mario All-Stars (Europe);zsnes;;1993;Nintendo;Platform;2;;;;;;;;;
+Super Mario Kart (Europe) (Rev 0A);Super Mario Kart (Europe) (Rev 0A);zsnes;;1992;Nintendo;Racing;2;;;;;;;;;
+Super Mario World (Europe);Super Mario World (Europe);zsnes;;1991;Nintendo;Platform;2;;;;;;;;;
+Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De);Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De);zsnes;;1995;Nintendo;Platform;1;;;;;;;;;
+Super R-Type (Europe);Super R-Type (Europe);zsnes;;1991;Nintendo;Shooter;1;;;;;;;;;
+Super Tennis (Europe);Super Tennis (Europe);zsnes;;1991;Nintendo;Sports;2;;;;;;;;;

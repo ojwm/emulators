@@ -1,0 +1,4 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Burnout 2 - Point of Impact (Europe) (En,Fr,De,Es,It).;Burnout 2 - Point of Impact (Europe) (En,Fr,De,Es,It).;dolphin-gc;;2003;Acclaim;Racing;2;;;;;;;;;
+Legend of Zelda, The - Collector's Edition (USA).;Legend of Zelda, The - Collector's Edition (USA).;dolphin-gc;;2003;Nintendo;Action / Adventure / Platform / Puzzle / Role-Playing;1;;;;;;;;;
+Luigi's Mansion (USA).;Luigi's Mansion (USA).;dolphin-gc;;2001;Nintendo;Adventure;1;;;;;;;;;

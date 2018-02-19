@@ -1,0 +1,7 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+1942;1942 (Revision B);mame;;1984;Capcom;;2;270;joystick (8-way);good;1;raster;;;;2
+1945kiii;1945k III;mame;;2000;Oriental Soft;;2;270;joystick (8-way);good;1;raster;;;;4
+19xx;19XX: The War Against Destiny (USA 951207);mame;;1996;Capcom;;2;270;joystick (8-way);good;1;raster;;;;2
+crusnusa;Cruis'n USA (rev L4.1);mame;;1994;Midway;;1;0;paddle,pedal;good;1;raster;;;;11
+ddragonu;Double Dragon (US set 1);mame;ddragon;1987;Technos Japan (Taito America license);;2;0;joystick (8-way);good;1;raster;ddragon;;;3
+simpsons;The Simpsons (4 Players World, set 1);mame;;1991;Konami;;4;0;joystick (8-way);good;1;raster;;;;2

@@ -4,3 +4,4 @@ GUIs/attract/stats/**
 ROMs/**
 !ROMs/**/README.md
 last_run.log
+Tools/JoyToKey_en/JoyToKey.log

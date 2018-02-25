@@ -4,5 +4,5 @@ GoldenEye 007 (Europe);GoldenEye 007 (Europe);project64;;1997;Nintendo;Action / 
 Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A);Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A);project64;;1998;Nintendo;Action / Adventure / Platform / Puzzle / Role-Playing;1;;;;;;;;;
 Lylat Wars (Europe) (En,Fr,De);Lylat Wars (Europe) (En,Fr,De);project64;;;;;;;;;;;;;;
 Mario Kart 64 (Europe) (Rev A);Mario Kart 64 (Europe) (Rev A);project64;;1997;Nintendo;Racing;4+;;;;;;;;;
-Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It);Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It);project64;;;;;;;;;;;;;;
+Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It);Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It);project64;;1999;Midway;Racing;4+;;;;;;;;;
 Super Mario 64 (Europe) (En,Fr,De);Super Mario 64 (Europe) (En,Fr,De);project64;;1996;Nintendo;Action / Adventure / Platform / Puzzle;1;;;;;;;;;
